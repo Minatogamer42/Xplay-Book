@@ -1,0 +1,10 @@
+#Um texto comum sem comando
+textosemclick1: '&bOla%pular%'
+#esse e o texto que quando você clickar vai usar o comando que voce deseja
+textocomclick1: 'Click aki para testar o livro'
+#esse e o comando para abrir o livro
+comando: '/abrirlivro' 
+#o texto que vai aparecer quando voce passar o mouse em cima do texto
+hoverevent1: 'plugin criado por Minatogamr42OFC'
+#o comando que quando você vai clickar no texto
+clickcommand: '/teste'
